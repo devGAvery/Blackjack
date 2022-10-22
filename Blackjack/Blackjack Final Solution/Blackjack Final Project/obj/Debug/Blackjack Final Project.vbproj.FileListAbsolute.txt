@@ -1,0 +1,12 @@
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\bin\Debug\Blackjack Final Project.exe.config
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\bin\Debug\Blackjack Final Project.exe
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\bin\Debug\Blackjack Final Project.pdb
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\bin\Debug\Blackjack Final Project.xml
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\obj\Debug\Blackjack Final Project.vbprojAssemblyReference.cache
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\obj\Debug\Blackjack Final Project.vbproj.GenerateResource.cache
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\obj\Debug\Blackjack Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\obj\Debug\Blackjack Final Project.exe
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\obj\Debug\Blackjack Final Project.xml
+C:\Users\grega\Documents\Education\UCM\18 Fall CS 3800 App Dev w VB.net\Blackjack final proj\Blackjack Final Solution\Blackjack Final Project\obj\Debug\Blackjack Final Project.pdb
